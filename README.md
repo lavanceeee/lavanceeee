@@ -27,12 +27,12 @@ I'm a Computer Science student at Hebei University of Engineering (HUE) who is p
 
 ### 📫 Reach Me
 
-<p align="center">
+<p>
   <a href="mailto:lizhongpeng2@gmail.com">
     <img src="https://img.shields.io/badge/Email-lizhongpeng2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://4jone.netlify.app/">
     <img src="https://img.shields.io/badge/Blog-4jone.netlify.app-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
