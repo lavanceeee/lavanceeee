@@ -1,10 +1,12 @@
 ## 👋 Hi, I'm JoneLee
 
-I'm a Computer Science student at Hebei University of Engineering (HUE) who is passionate about Machine Learning, Computer Vision, and Software Development. I love clean code, elegant algorithms, and building useful things.
+I'm a Computer Science student at Hebei University of Engineering (
+  <a>https://xindian.hebeu.edu.cn/</a> 
+) who is passionate about Machine Learning, Computer Vision, and Software Development. I love clean code, elegant algorithms, and building useful things.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -16,7 +18,7 @@ I'm a Computer Science student at Hebei University of Engineering (HUE) who is p
 
 ---
 
-### 🌟 Interests
+### Interests
 
 - 📚 Reading
 - 📸 Photography
@@ -25,7 +27,7 @@ I'm a Computer Science student at Hebei University of Engineering (HUE) who is p
 
 ---
 
-### 📫 Reach Me
+### Reach Me
 
 <p>
   <a href="mailto:lizhongpeng2@gmail.com">
@@ -38,7 +40,7 @@ I'm a Computer Science student at Hebei University of Engineering (HUE) who is p
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LiZhongpeng2&show_icons=true&hide_title=true&hide_rank=true&theme=calm&hide_border=true&bg_color=00000000" width="48%" />
