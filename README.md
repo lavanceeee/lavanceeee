@@ -43,8 +43,8 @@ I'm a Computer Science student at Hebei University of Engineering (HUE) who is p
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiZhongpeng2&show_icons=true&hide_rank=true&theme=calm&hide_border=true&bg_color=00000000&title_color=2ea043&text_color=24292e" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiZhongpeng2&layout=compact&theme=calm&hide_border=true&bg_color=00000000&title_color=2ea043&text_color=24292e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LiZhongpeng2&show_icons=true&hide_rank=true&theme=calm&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiZhongpeng2&layout=compact&theme=calm&hide_border=true&bg_color=00000000" width="48%" />
 </p>
 
 <p align="center">
