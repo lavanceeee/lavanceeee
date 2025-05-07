@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm JoneLee
 
 I'm a Computer Science student at Hebei University of Engineering (
-  <a>https://xindian.hebeu.edu.cn/</a> 
+  <p href='https://xindian.hebeu.edu.cn/'>HUE</p> 
 ) who is passionate about Machine Learning, Computer Vision, and Software Development. I love clean code, elegant algorithms, and building useful things.
 
 ---
 
-### Tech Stack
+### Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -33,6 +33,7 @@ I'm a Computer Science student at Hebei University of Engineering (
   <a href="mailto:lizhongpeng2@gmail.com">
     <img src="https://img.shields.io/badge/Email-lizhongpeng2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br/>
   <a href="https://4jone.netlify.app/">
     <img src="https://img.shields.io/badge/Blog-4jone.netlify.app-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
