@@ -1,6 +1,6 @@
-## 👋 Hi, I'm LiZhongpeng
+## 👋 Hi, I'm JoneLee
 
-I'm a software engineering student who loves clean code, elegant algorithms, and building useful things.
+I'm a Computer Science student at Hebei University of Engineering (HUE) who is passionate about Machine Learning, Computer Vision, and Software Development. I love clean code, elegant algorithms, and building useful things.
 
 ---
 
@@ -8,11 +8,20 @@ I'm a software engineering student who loves clean code, elegant algorithms, and
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" />
 </p>
+
+---
+
+### 🌟 Interests
+
+- 📚 Reading
+- 📸 Photography
+- 🏃‍♂️ Outdoor Activities
+- ⛰️ Hiking
 
 ---
 
