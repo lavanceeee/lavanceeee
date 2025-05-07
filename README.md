@@ -6,7 +6,7 @@ I'm a Computer Science student at Hebei University of Engineering (HUE) who is p
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
@@ -43,8 +43,8 @@ I'm a Computer Science student at Hebei University of Engineering (HUE) who is p
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LiZhongpeng2&show_icons=true&hide_title=true&hide_rank=true&theme=calm&hide_border=true&bg_color=00000000" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiZhongpeng2&layout=compact&hide_title=true&theme=calm&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LiZhongpeng2&show_icons=true&hide_rank=true&theme=calm&hide_border=true&bg_color=00000000&title_color=2ea043&text_color=24292e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiZhongpeng2&layout=compact&theme=calm&hide_border=true&bg_color=00000000&title_color=2ea043&text_color=24292e" width="48%" />
 </p>
 
 <p align="center">
