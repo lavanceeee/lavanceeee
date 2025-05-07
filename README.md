@@ -25,6 +25,19 @@ I'm a Computer Science student at Hebei University of Engineering (HUE) who is p
 
 ---
 
+### 📫 Reach Me
+
+<p align="center">
+  <a href="mailto:lizhongpeng2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lizhongpeng2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://4jone.netlify.app/">
+    <img src="https://img.shields.io/badge/Blog-4jone.netlify.app-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -35,11 +48,4 @@ I'm a Computer Science student at Hebei University of Engineering (HUE) who is p
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LiZhongpeng2&theme=github-compact&hide_border=true&bg_color=00000000" width="100%" />
 </p>
-
----
-
-### 📫 Reach Me
-
-- Email: `lizhongpeng2@gmail.com`
-- Blog: [4jone.netlify.app](https://4jone.netlify.app/)
 
