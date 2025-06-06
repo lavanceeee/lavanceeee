@@ -1,5 +1,3 @@
-## 👋 Hi, I'm Lavance
-
 ### GitHub Stats
 
 <p align="center">
