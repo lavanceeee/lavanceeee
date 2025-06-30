@@ -6,9 +6,9 @@ Hi I'm Lavance Lee (李忠鹏)
 
 I'm an undergraduate student majoring in Software Engineering mainly using **C++**, **Python**, also **TypeScript** as my main stack: with a focus on Computer Vision and front-end Development.
 
-+ You can visit [my blog](2jone.top) for more information about me :)
++ You can visit [my blog](https://2jone.top) for more information about me :)
 
-+ [Here](cv.2jone.top) is my detailed resume, which includes my projects experiences and some competition experiences.
++ [Here](https://cv.2jone.top) is my detailed resume, which includes my projects experiences and some competition experiences.
 
 ## Education
 
