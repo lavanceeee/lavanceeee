@@ -1,6 +1,8 @@
 ## About
 
-**Hi, I'm Lavance Lee (李忠鹏)**
+<p align="center" style="font-weight: 600;">
+Hi I'm Lavance Lee (李忠鹏)
+</p>
 
 I'm an undergraduate student majoring in Software Engineering mainly using **C++**, **Python**, also **TypeScript** as my main stack: with a focus on Computer Vision and front-end Development.
 
