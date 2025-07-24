@@ -5,8 +5,10 @@ Hi I'm Lavance Lee (李忠鹏)
 </p>
 
 An undergraduate student majoring in Software Engineering 
+
 Nobody writing code mainly using Python, also JavaScript
-With a passionate about Computer Vision and Front-End Development.
+
+With a passionate about Computer Vision and Front-End Development
 
 ![My Skills](https://skillicons.dev/icons?i=python,opencv,js,vue)
 
