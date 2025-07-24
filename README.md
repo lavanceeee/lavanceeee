@@ -12,8 +12,6 @@ Nobody writing code mainly using Python, also JavaScript
 
 With a passionate about Computer Vision and Front-End Development
 
-![My Skills](https://skillicons.dev/icons?i=python,opencv,js,vue)
-
 ## Status
 
 <picture>
