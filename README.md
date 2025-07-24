@@ -8,9 +8,9 @@ I'm an undergraduate student majoring in Software Engineering mainly using **Pyt
 
 ![My Skills](https://skillicons.dev/icons?i=python,opencv,js,vue)
 
-+ [My blog](https://2jone.top) for more information about me :)
++ [Blog](https://2jone.top) for more details :)
 
-+ [Here](https://cv.2jone.top) is my detailed resume, which includes my projects experiences and some competition experiences.
++ [Resume](https://cv.2jone.top)
 
 ## Education
 
