@@ -1,7 +1,5 @@
 ## About
 
-Hi I'm lavanceeee
-
 [李忠鹏's Blog](https://2jone.top) | [Resume](https://cv.2jone.top)
 
 Undergraduate student majoring in Software Engineering 
