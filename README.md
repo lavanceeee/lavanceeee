@@ -2,11 +2,11 @@
 
 [李忠鹏's Blog](https://2jone.top) | [Resume](https://cv.2jone.top)
 
-Undergraduate student majoring in Software Engineering 
++ Undergraduate student majoring in Software Engineering 
 
-Nobody writing code mainly using Python, also JavaScript
++ Nobody writing code mainly using Python, also JavaScript
 
-With a passionate about Computer Vision and Front-End Development
++ With a passionate about Computer Vision and Front-End Development
 
 ## Status
 
