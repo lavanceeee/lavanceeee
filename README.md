@@ -1,8 +1,8 @@
 ## About
 
-Hi I'm Lavance Lee (李忠鹏)
+Hi I'm lavanceeee
 
-[Blog](https://2jone.top)
+[李忠鹏's Blog](https://2jone.top)
 
 [Resume](https://cv.2jone.top)
 
