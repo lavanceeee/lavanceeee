@@ -4,8 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=lavanceeee" alt="访问量统计" />
 
-+ Undergraduate student majoring in Software Engineering 
-
 + Nobody writing code mainly using Python, also JavaScript
 
 + With a passionate about Computer Vision and Front-End Development
