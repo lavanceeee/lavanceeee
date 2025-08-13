@@ -8,6 +8,8 @@
 
 + With a passionate about Computer Vision and Front-End Development
 
++ Admire the design philosophy of Jony Ive, casing pure products with fanatical care for every details
+
 ## Status
 
 <picture>
