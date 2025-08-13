@@ -6,6 +6,8 @@
 
 + Nobody writing code mainly using Python, also JavaScript
 
+[![My Skills](https://skillicons.dev/icons?i=python,opencv,vue,js)](https://skillicons.dev)
+
 + With a passionate about Computer Vision and Front-End Development
 
 + Admire the design philosophy of Jony Ive, casing pure products with fanatical care for every details
