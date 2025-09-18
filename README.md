@@ -14,14 +14,5 @@
 
 ## Status
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lavanceeee&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lavanceeee&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lavanceeee&show_icons=true" />
-</picture>
+![Stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lavanceeee&show_icons=true&theme=dark#gh-dark-mode-only)
+![Stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lavanceeee&show_icons=true#gh-light-mode-only)
