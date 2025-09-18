@@ -13,6 +13,3 @@
 [![My Skills](https://skillicons.dev/icons?i=python,opencv,vue,js,figma)](https://skillicons.dev)
 
 ## Status
-
-![Stats-Dark](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lavanceeee&show_icons=true&theme=dark#gh-dark-mode-only)
-![Stats-Light](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lavanceeee&show_icons=true#gh-light-mode-only)
