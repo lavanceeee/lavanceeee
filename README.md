@@ -12,4 +12,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,opencv,vue,js,figma)](https://skillicons.dev)
 
-## Status
