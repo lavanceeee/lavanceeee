@@ -10,5 +10,5 @@
 
 + Admire the design philosophy of Jony Ive, casing pure products with fanatical care for every details
 
-[![My Skills](https://skillicons.dev/icons?i=python,opencv,vue,js,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,qt,opencv,figma)](https://skillicons.dev)
 
