@@ -1,6 +1,6 @@
 ## About
 
-[Blog](https://2jone.top) | [Resume](https://cv.2jone.top)
+[Blog:)](https://2jone.top)
 
 <img src="https://komarev.com/ghpvc/?username=lavanceeee" alt="访问量统计" />
 
